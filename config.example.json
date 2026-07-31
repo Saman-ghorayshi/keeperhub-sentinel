@@ -1,0 +1,18 @@
+{
+  "network": "11155111",
+  "wallet_address": "",
+  "threshold": 1.5,
+  "poll_interval": 60,
+  "max_retries": 3,
+  "cooldown_seconds": 120,
+  "kill_switch": false,
+  "max_amount_wei": "10000000000000000",
+  "chain_allowlist": ["1", "8453", "11155111"],
+  "recipient_allowlist": [],
+  "supply_asset": "",
+  "supply_amount": "1000000",
+  "withdraw_asset": "",
+  "withdraw_amount": "1000000",
+  "transfer_recipient": "",
+  "transfer_amount": "1000000000000000"
+}
